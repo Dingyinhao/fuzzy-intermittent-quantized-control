@@ -1,0 +1,13 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.fig
+simulation_results_*/
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Publisher PDF supplied locally; do not commit it by accident.
+paper/*.pdf

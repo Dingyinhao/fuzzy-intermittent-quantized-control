@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Fuzzy intermittent quantized control for stochastic multilayered networks"
+message: "If you use this code, please cite the associated Neurocomputing article."
+type: software
+authors:
+  - family-names: Ding
+    given-names: Yinhao
+  - family-names: Yang
+    given-names: Shunyao
+  - family-names: Zhou
+    given-names: Wangxiang
+  - family-names: Gao
+    given-names: Yuhua
+  - family-names: Hu
+    given-names: Cheng
+repository-code: "https://github.com/Dingyinhao/fuzzy-intermittent-quantized-control"
+url: "https://doi.org/10.1016/j.neucom.2026.134849"
+doi: 10.1016/j.neucom.2026.134849
+date-released: 2026-09-24
+license: MIT
+keywords:
+  - MATLAB
+  - stochastic multilayered networks
+  - fixed-time synchronization
+  - prescribed-time synchronization
+  - intermittent control
+  - quantized control
+  - deception attacks
